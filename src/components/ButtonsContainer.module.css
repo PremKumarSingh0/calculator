@@ -1,0 +1,21 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  border-radius: 20px;
+  border: none;
+  color: rgb(2, 5, 4);
+  background:rgb(190, 102, 7);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+
+}
